@@ -1,10 +1,5 @@
-## Hi there 👋
+## Welcome!
 
-**Here are some ideas to get you started:**
+AliceNet is a Layer 2 utility blockchain, designed around high data availability, byzantine fault tolerance and compact state proofs. It is meant for general purpose compute, bridging between other L1 and L2 chains and temporal data stores.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+If you are new to our chain, please check out [our website](https://alice.net).

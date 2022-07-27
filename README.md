@@ -1,3 +1,0 @@
-# alicenet
-
-Testing organizational readme
