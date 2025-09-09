@@ -38,7 +38,7 @@ It is expected that ALCA holders will participate in the governance of AliceNet.
 This will involve voting,
 and the total votes will be determined by the amount of ALCA;
 thus, holding more ALCA leads to greater influence on the direction of AliceNet.
-Additionally, a portion of ETH gathered from minting ALCB
+Additionally, a portion of the proceeds garnered from minting ALCB
 will be distributed between ALCA holders;
 this specifics of this distribution will be discussed later.
 
@@ -85,5 +85,4 @@ may be found in a [recent paper](https://eprint.iacr.org/2023/275).
 ## Conclusion
 
 Data is critically important, and AliceNet is the Layer 2 blockchain
-which provides the necessary infrastructure to prove
-when data is used.
+which provides the necessary infrastructure to prove the lineage and value of data.
