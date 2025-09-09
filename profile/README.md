@@ -6,7 +6,7 @@ AliceNet is a Layer 2 blockchain designed to facilitate
 the **proving** of data ownership and tracking
 how data is used (data lineage).
 The **cryptographic proofs** ensure data integrity
-while shifting the validity to the due-dilligence of data author.
+while shifting the validity to the due-diligence of data author.
 
 
 ## Architecture
@@ -85,5 +85,5 @@ may be found in a [recent paper](https://eprint.iacr.org/2023/275).
 ## Conclusion
 
 Data is critically important, and AliceNet is the Layer 2 blockchain
-which provides the necessary imfrastructure to prove
+which provides the necessary infrastructure to prove
 when data is used.
