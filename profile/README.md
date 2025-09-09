@@ -65,17 +65,25 @@ All projects built on AliceNet will use ALCB to pay for operations.
 
 ## Identity and Credentials
 
-Some projects on AliceNet use Decentralized Identifiers,
-Verifiable Credentials, and Verifiable Presentations.
+Some projects on AliceNet use Decentralized Identifiers (DIDs),
+Verifiable Credentials (VCs), and Verifiable Presentations (VPs).
 These are based on the [W3C DID Specification](https://www.w3.org/TR/did-core/)
 and [W3C VC Specification](https://w3c.github.io/vc-data-model/).
+In this case, AliceNet will store DID documents needed to verify proofs;
+thus, AliceNet provides its own Public Key Infrastructure (PKI).
 
-## Proofs and Verifications
 
-The cryptographic proofs used are based on BBS signatures
+## Proofs and Verification
+
+The cryptographic proofs used within VCs and VPs are based on BBS signatures
 (a type of digital signature which uses a bilinear pairing)
 and Merkle trees.
+A discussion of BBS signatures and associated zero-knowledge proofs
+may be found in a [recent paper](https://eprint.iacr.org/2023/275).
 
 
 ## Conclusion
 
+Data is critically important, and AliceNet is the Layer 2 blockchain
+which provides the necessary imfrastructure to prove
+when data is used.
