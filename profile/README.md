@@ -1,4 +1,4 @@
-# AliceNet 2.0
+# AliceNet 1.0
 
 ## Introduction
 
@@ -11,10 +11,10 @@ while shifting the validity to the due-diligence of data author.
 
 ## Architecture
 
-AliceNet 2.0 is built using the
+AliceNet is built using the
 [**Agglayer Chain Development Kit (CDK)**](https://docs.agglayer.dev/cdk/).
 Operating as a [**Validium**](https://docs.agglayer.dev/cdk/cdk-erigon/architecture/#cdk-erigon-validium) node,
-AliceNet 2.0 leverages
+AliceNet leverages
 [**Agglayer zkEVM**](https://github.com/agglayer/agglayer-contracts)
 and a
 [**Data Availability Committee (DAC)**](https://github.com/0xPolygon/cdk-data-availability)
