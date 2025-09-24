@@ -57,7 +57,7 @@ in order to receive ETH.
 Both of these rules are in place because ALCB has one purpose: 
 to pay for AliceNet operations.
 In the future, a portion of the proceeds from minting ALCB will be distributed
-to [ALCA](./alca_discussion.md) holders
+to [ALCA](https://github.com/alicenet/alicenet/blob/main/docs/alca_discussion.md) holders
 (as one of the benefits of holding the ALCA Governance Token).
 
 All projects built on AliceNet will use ALCB to pay for operations.
